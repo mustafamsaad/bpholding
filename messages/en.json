@@ -1,0 +1,34 @@
+{
+  "common": {
+    "brand": "BP Holding",
+    "tagline": "Premium Construction & Engineering Solutions",
+    "promise": "We build the future with integrated solutions.",
+    "languageSwitch": "العربية"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "studio": "Portfolio Studio",
+    "certifications": "Certifications",
+    "careers": "Careers",
+    "contractors": "Contractors & Suppliers",
+    "rfq": "Request a Quote",
+    "store": "Store",
+    "pegn": "PEG-N",
+    "community": "Community",
+    "contact": "Contact"
+  },
+  "auth": {
+    "employeeLogin": "Employee Login",
+    "adminLogin": "Admin Login",
+    "signOut": "Sign out"
+  },
+  "home": {
+    "heroTitle": "We build the future with integrated solutions",
+    "heroSubtitle": "Premium construction, engineering, MEP, and finishing services across the Kingdom of Saudi Arabia.",
+    "ctaQuote": "Request a Quote",
+    "ctaProfile": "Download Company Profile"
+  }
+}

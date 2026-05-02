@@ -39,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# internal planning & agent docs (not for client/deploy)
+BP_HOLDING_EXECUTION_PLAN.md
+CLAUDE.md
+AGENTS.md
+skills-lock.json
+.junie/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# internal reference assets (client-provided source material, not for repo/deploy)
+/company profile/
+/company_profile/
+*.pdf
